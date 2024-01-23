@@ -8,7 +8,7 @@ I've been learning to code for 3 years, after switching careers. I started with 
 
 * 🌍  I'm based in Riga, Latvia
 * 🖥️  See my portfolio at [My GitHub page](http://github.com/ExtF8)
-* ✉️  You can contact me at [hardijscibulskis@gmail.com](mailto:extfield8@gmail.com)
+* ✉️  You can contact me at [extfield8@gmail.com](mailto:extfield8@gmail.com)
 * 🧠  I'm learning Full Stack development course via The Odin Project
 * 🤝  I'm open to collaborating on interesting projects
 
